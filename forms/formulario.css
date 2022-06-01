@@ -31,7 +31,7 @@ input, select, textarea, botton{
   margin-botton:1px;  
 }
 .campo label{
-    margin-botton:0.3em;
+    margin-botton:0.2em;
     color: #244c71;
     display:block;
 }
@@ -42,7 +42,7 @@ fieldset.grupo .campo{
 .campo input[type="text"], .campo input[type="email"], .campo select, .campo textarea{
     padding:0.2em;
     border:2px solid #a00600;
-    box-shadow: 2px 2px 2px rgb(0,0,0,0.3);
+    box-shadow: 2px 2px 2px rgb(0,0,0,0.2);
     display:block;
 }
 .campo select option{

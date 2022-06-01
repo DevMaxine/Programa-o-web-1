@@ -18,7 +18,7 @@ fieldset{
 body{
     background-color:#ffbfea;
     font-family:Verdana;
-    font-size:1cm;
+    font-size:0.5cm;
     color:white;
     margin-left:36%;
     margin-top:2%;
@@ -52,17 +52,17 @@ fieldset.grupo .campo{
     background: #E0E0F8;
 }
 .botao{
-    font-size: 1.2em;
+    font-size: 1.0em;
     background: #ee6aff;
     border: 0;
     margin-botton: 1em;
     color: #ffeaea;
-    padding: 0.2em 0.6em;
+    padding: 0.2em 0.4em;
     box-shadow: 2px 2px 2px rgba(#ca76a7);
     text-shadow: 1px 1px 1px rgba(#ca76a7);
     position: absolute;
-    top: 90%;
-    left:50%;
+    top: 80%;
+    left:40%;
     margin-right: -50%;
     transform: translate( -50%, -50%);  
 }
